@@ -33,5 +33,3 @@ Here are some ideas to get you started:
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=berryamo)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berryamo&layout=compact)
-  
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=berryamo)
